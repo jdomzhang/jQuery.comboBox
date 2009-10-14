@@ -1,0 +1,6 @@
+This is from 2
+<<<<<<< HEAD
+this is from 1111111111111111---------------
+=======
+from is from 222222222222 again
+>>>>>>> 6b43df80344606d5df5159239f5cc6b15e50107b
